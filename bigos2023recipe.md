@@ -1,4 +1,4 @@
-# Bigos 2023 recipe (the good one)
+# Vegan Bigos 2023 recipe (the good one)
 1. soak `100g` dried mushrooms overnight (seems more would be better)
 2. boil `1kg` sauerkraut with `1 medium` chopped cabbage - `1h`
 3. drain mushrooms, save water 
