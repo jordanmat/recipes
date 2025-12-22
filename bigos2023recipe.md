@@ -1,7 +1,8 @@
 # Vegan Bigos 2023 recipe (the good one)
-1. soak `100g` dried mushrooms overnight (seems more would be better)
-2. boil `1kg` sauerkraut with `1 medium` chopped cabbage - `1h`
+1. soak `100g`+ dried mushrooms for `1h`.
+2. boil `1kg` sauerkraut with `1 medium` chopped cabbage - `1h`. Add water if needed.
 3. drain mushrooms, save water 
+4. Fry (smoked) tempeh with onions first.
 4. fry mushrooms with:
     - `1` onion, chopped
     - `4` cloves of garlic, minced
