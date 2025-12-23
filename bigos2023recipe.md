@@ -10,7 +10,7 @@
     - `1` tbsp marjoram
     - `1` tbsp crushed juniper berries
     - `1/4` cup tomato paste
-    - `300ml`  mushroom water
+    - `300ml`  mushroom water (maybe less for not so strong taste) 
     - `500ml` stock
     - `2 tbsp` wrcstr sauce
     - `5` bay leaves
